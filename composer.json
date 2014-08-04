@@ -1,7 +1,7 @@
 {
-    "name": "yzalis/litmus",
+    "name": "jdchmiel/litmus",
     "type": "library",
-    "description": "Litmus API Wrapper allows you to run email, spam test and email subject preview.",
+    "description": "Litmus API Wrapper allows you to run email, spam test and email subject preview.  This repository is a downstream clone, you are best suited to use or form yzalis/Litmus as this may diverge over time.",
     "keywords": ["email testing", "email preview", "email subject preview", "spam testing"],
     "homepage": "http://litmus.com",
     "license": "MIT",
